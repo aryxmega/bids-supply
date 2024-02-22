@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: Bids & Supply
+description: A documentation on how to find the bid, find supply, and execute a trade.
+theme: bids-and-supply
 
-url: https://just-the-docs.github.io
+url: https://bids.supply
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://bids.supply
